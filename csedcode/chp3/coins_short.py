@@ -17,3 +17,4 @@ total = 5 * n + 10 * d + 25 * q
 # print the results
 print()  # prints a blank line
 print(str(total) + ' cents')
+print("hello")
